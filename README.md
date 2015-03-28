@@ -56,3 +56,6 @@ Requires jQuery 1.x or higher.
 
 
 [1]: https://developers.google.com/analytics/devguides/collection/protocol/v1/devguide
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/DmitryNaum/google-analytics-measurement-protocol-tool/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
